@@ -1,4 +1,4 @@
-# sedov-answers
-It's sedov answers
+# Sedov-answers
+It's Sedov answers
 
 По сути тот же список вопросов, только при нажатии Вы попадаете на сайт с ответом на этот вопрос.
